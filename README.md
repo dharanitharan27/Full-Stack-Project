@@ -8,11 +8,6 @@ This project consists of two applications:
 
 It is a service-oriented platform focused on establishing and maintaining connections between consumers and small businesses in the **Arts, Entertainment, and Recreation** sector.
 
-👉 **[Click here to view the application](https://www.hobbie.ch)**  
-> _Note: This application is copyrighted._
-
----
-
 ## **Applications**
 <hr>
 
